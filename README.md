@@ -91,12 +91,17 @@ ip access-list extended FILTRO_INVITADOS
  deny ip 172.16.0.0 0.0.0.63 172.16.0.160 0.0.0.31   ! Bloqueo a TI y Servidores
  permit ip any any                                   ! Permitir el resto (Salida WAN)
  exit
+<img width="526" height="65" alt="image" src="https://github.com/user-attachments/assets/15e2afb7-ac29-465f-a915-e7db7d9f57f9" />
+
+
 
 ! --- APLICACIÓN EN LA INTERFAZ DE ENTRADA ---
 interface GigabitEthernet0/0/0
  ip access-group FILTRO_INVITADOS in
  exit
 ```
+<img width="383" height="40" alt="image" src="https://github.com/user-attachments/assets/06c1eb7f-d1d6-47df-9407-eea4f58c3696" />
+
 
 ---
 
