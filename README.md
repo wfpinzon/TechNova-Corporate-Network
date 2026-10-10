@@ -17,7 +17,7 @@ El proyecto fue desarrollado y validado utilizando **Cisco Packet Tracer**, apli
 ## 🗺️ 1. Topología de la Red
 La red está organizada visualmente en cuatro zonas lógicas independientes (TI/Servidores, Ventas, Administración e Invitados).
 
-![Topología de Red Corporativa]([documentation/screenshots/tu_captura_de_la_topologia.png](https://github.com/wfpinzon/TechNova-Corporate-Network/blob/main/Infraestructura%20de%20Red%20Corporativa%20y%20Seguridad%20Perimetral%20-%20TechNova%20Solutions.png))
+![Topología de Red Corporativa]([documentation/screenshots/tu_captura_de_la_topologia.png](https://github.com/wfpinzon/TechNova-Corporate-Network/blob/main/Infraestructura%20de%20Red%20Corporativa%20y%20Seguridad%20Perimetral%20-%20TechNova%20Solutions.png)
 
 
 ---
