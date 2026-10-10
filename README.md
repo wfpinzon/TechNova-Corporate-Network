@@ -121,5 +121,5 @@ Las políticas de red y conectividad se validaron con éxito mediante pruebas de
 
 ---
 ### ✒️ Autor
-*   **Tu Nombre** - [Tu Perfil de LinkedIn](https://linkedin.com)
+*   **Tu Nombre** - [Tu Perfil de LinkedIn](https://www.linkedin.com/in/wilson-fernando-pinzon-guacaneme/)
 *   Estudiante de Cisco Networking Academy - Curso: *Networking Essentials*.
